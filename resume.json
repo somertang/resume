@@ -37,7 +37,9 @@
 	}, {
 		"work_time": ["2021.05","至今"],
 		"company_name": "上海汉得信息技术股份有限公司",
-		"department_name": "前端技术中心"
+		"department_name": "前端技术中心",
+		"work_desc": "",
+		"dataIndex": 1
 	}],
 	"skillList": [{
 		"skill_name": "熟练掌握React、react-router、redux、dva的使用",
