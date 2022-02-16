@@ -12,20 +12,20 @@
 		"hidden": true
 	},
 	"profile": {
-		"name": "姓名11",
-		"email": "736****86@qq.com",
-		"mobile": "156********",
+		"name": "唐水明",
+		"email": "somertang@foxmail.com",
+		"mobile": "17673116337",
 		"github": "https://github.com/somertang",
-		"zhihu": "https://github.com/somertang",
-		"workExpYear": "",
-		"workPlace": "浙江杭州",
+		"zhihu": "",
+		"workExpYear": "3年",
+		"workPlace": "广东 深圳",
 		"positionTitle": "前端工程师"
 	},
 	"educationList": [{
-		"edu_time": ["2014.09.01", "2018.06.30"],
-		"school": "华南理工大学",
-		"major": "网络工程",
-		"academic_degree": "本科"
+		"edu_time": "2014.09,2018.06",
+		"school": "湖南农业大学东方科技学院",
+		"major": "计算机科学与技术-本科",
+		"dataIndex": 0
 	}],
 	"awardList": [{
 		"award_info": "英语 CET6",
