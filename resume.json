@@ -27,19 +27,7 @@
 		"major": "计算机科学与技术",
 		"academic_degree": "本科"
 	}],
-	"awardList": [{
-		"award_info": "英语 CET6",
-		"award_time": "2015"
-	}, {
-		"award_info": "蚂蚁近卫军 卓越个人奖",
-		"award_time": "2018.09"
-	}, {
-		"award_info": "前端练习生 可视化讲师",
-		"award_time": "2020.10"
-	}, {
-		"award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-		"award_time": "2021.07"
-	}],
+	"awardList": [],
 	"workExpList": [{
 		"company_name": "蚂蚁集团",
 		"department_name": "体验技术部",
@@ -93,7 +81,7 @@
 	}],
 	"workList": [],
 	"aboutme": {
-		"aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。\n    "
+		"aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。\n✌叶子火焰☃☠☮➹☦♞☺☹♂☾☀☽☼▲▼●●\n    "
 	},
 	"theme": {
 		"color": "#2f5785",
