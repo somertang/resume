@@ -22,10 +22,10 @@
 		"positionTitle": "前端工程师"
 	},
 	"educationList": [{
-		"edu_time": ["2014.09.01","2018.06.01"],
+		"edu_time": ["2014.09.01", "2018.06.30"],
 		"school": "湖南农业大学东方科技学院",
-		"major": "计算机科学与技术-本科",
-		"dataIndex": 0
+		"major": "计算机科学与技术",
+		"academic_degree": "本科"
 	}],
 	"awardList": [{
 		"award_info": "英语 CET6",
