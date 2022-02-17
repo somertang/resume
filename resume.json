@@ -86,9 +86,10 @@
       "dataIndex": 5
     },
     {
-      "skill_name": "熟悉Mbox的使用",
+      "skill_name": "了解Node.js和HTTP协议",
+      "skill_desc": "了解Node.js和HTTP协议",
       "skill_level": 80,
-      "skill_desc": "熟悉Mbox的使用"
+      "dataIndex": 2
     },
     {
       "skill_name": "了解Oracle数据库、Linux系统的部署和使用",
@@ -96,36 +97,44 @@
       "skill_desc": "了解Oracle数据库、Linux系统的部署和使用"
     },
     {
-      "skill_name": "了解Node.js和HTTP协议",
-      "skill_desc": "了解Node.js和HTTP协议",
+      "skill_name": "熟悉Mbox的使用",
       "skill_level": 80,
-      "dataIndex": 2
+      "skill_desc": "熟悉Mbox的使用"
     }
   ],
   "projectList": [
     {
       "project_name": "深圳大疆创新合同管理系统项目",
       "project_role": "前端开发",
-      "project_desc": "合同管理系统，旨在针对合同管理方面进行合同的全生命周期的线上管理和流程管控，系统内包括：合同拟制、合同审批、合同签署防伪、合同风险管理等。系统包括PC和H5页面，活跃用户2000+。",
-      "project_content": "负责系统首页的性能优化，将页面响应时间控制在3秒以内；\n负责前端团队成员的代码审核、测试和检查；\n负责合同拟制页面的二次开发，期间分析代码，抽离出3个公用组件；\n负责合同起草模块和模板起草模块的前端开发，一个月时间从 0 设计、开发、测试并发布，无延期；\n负责前端接入WPS插件，并对其进行客制化；\n负责前端归档条形码的生成及预览打印；",
-      "dataIndex": 0,
-      "project_technology": "React、React-router、Redux、Dva、Ahooks、Mobx、Ant-design、OC-UI；"
+      "project_desc": "测试",
+      "project_content": "测试ceshi"
+    },
+    {
+      "project_name": "新力物业集团有限公司-一诺合同实施项目",
+      "project_role": "前端开发",
+      "project_desc": "一偌合同管理系统承载着统一集团合同数据管理，加强集团合同监控，并为后续搭建财务结算中台及实现财务管控提供数据支撑。",
+      "project_content": "测试ceshi"
     },
     {
       "project_name": "日立电梯服务治理平台",
       "project_role": "前端开发",
-      "project_desc": "服务治理平台，用户可在平台查看各系统间服务调用的日志、统计各系统服务的日常运行情况（如：异常率，成功率，失败率，平均响应时间等）， 快速配置发布系统服务等。平台接口日均调用60万次+，平台日均接口日志产生100万条；",
-      "project_content": "负责平台首页的服务运行监控页面开发，将首页响应时间控制在3秒以内；\n负责平台服务日志模块开发，重构产品原有功能和页面，将页面响应时间控制3s以内，优化了页面设计布局，重点突出重要的日志信息，得到客户的满意评价；\n负责平台服务报表模块开发，一个月时间从 0 设计、开发、测试并发布，无延期；",
-      "dataIndex": 2,
-      "project_technology": "Angular、Ant-design、Axios、echart、Nginx"
+      "project_desc": "日立电梯企业服务总线项目将基于Oracle ESB产品搭建和实施企业服务总线平台，为日立电梯各异构系统之间的数据互联互通提供统一的数据交换平台，实现多个业务系统之间数据集成。另外项目还将实施服务管理监控平台，实现服务的统一管理和监控，平台提供服务运行状态、服务预警、服务运行统计等相关功能，方便对平台进行运维管理。",
+      "project_content": "测试ceshi",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "香港中文大学统一流程平台",
+      "project_role": "前端开发",
+      "project_desc": "香港中文大学深圳校区统一流程项目，以Oracle BPM为流程引擎，Oracle ESB为数据总线，结合流行前端框架：Angular、Ant Design，实现了流程的快速发起、高效流转、随时审批，有效提升了整个校区的业务流程审批效率，方便了学生和老师的业务申请，减轻了行政人员的工作压力，提升了各业务流程的流转效率。",
+      "project_content": "测试ceshi",
+      "dataIndex": 2
     },
     {
       "project_name": "国家电投广东公司门户报表系统",
       "project_role": "后端开发",
       "project_desc": "报表系统通过前端页面将企业设备的日常运行数据录入，在后台将设备的日常运行数据结合复杂的业务逻辑和算法计算，将数据按各种维度和企业的各项经营指标要求进行汇总，利用报表和图表的数据展现形式，直观将企业的经营数据展现到企业管理决策者们眼前，有效提升了管理者们的决策效率。",
-      "project_content": " 负责系统后端复杂业务逻辑公式的实现；\n 负责系统数据库表的表结构设计与创建；\n 负责按业务维度生成对应报表，其中抽离多个公用方法，通过Oracle Job生成物化视图，有效缩短了报表接口的60%响应时间；\n",
-      "dataIndex": 3,
-      "project_technology": "PL/SQL，Oracle，ESB，Echart，JavaScript/jQuery"
+      "project_content": "测试ceshi",
+      "dataIndex": 3
     }
   ],
   "workList": [],
